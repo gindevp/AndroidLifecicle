@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">androidLifecycle</string>
+    <string name="button">call</string>
+</resources>
